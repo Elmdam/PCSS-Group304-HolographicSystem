@@ -12,3 +12,5 @@ C:\Users\Kristian Engberg\OneDrive\Dokumenter\GitHub\SolutionTcpACharacter\TcpAS
 C:\Users\Kristian Engberg\OneDrive\Dokumenter\GitHub\SolutionTcpACharacter\TcpAServer\TcpAServer\bin\Debug\TcpAServer.exe
 C:\Users\Kristian Engberg\OneDrive\Dokumenter\GitHub\SolutionTcpACharacter\TcpAServer\TcpAServer\bin\Debug\TcpAServer.pdb
 C:\Users\Kristian Engberg\OneDrive\Dokumenter\GitHub\SolutionTcpACharacter\TcpAServer\TcpAServer\obj\x86\Debug\TcpAServer.csprojResolveAssemblyReference.cache
+C:\Users\Krist\OneDrive\Dokumenter\GitHub\PCSS-Group304-Ludo\LudoProgram(unity)\Ludo\TcpAServer\TcpAServer\obj\x86\Debug\TcpAServer.exe
+C:\Users\Krist\OneDrive\Dokumenter\GitHub\PCSS-Group304-Ludo\LudoProgram(unity)\Ludo\TcpAServer\TcpAServer\obj\x86\Debug\TcpAServer.pdb
